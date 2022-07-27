@@ -1,4 +1,4 @@
-# Repositório de Projetos variados, construidos ao longo de minha trajetória
+# Repositório cursos Udemy
 
 
 - Divirtam-se

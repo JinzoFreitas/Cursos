@@ -1,4 +1,4 @@
-# Repositório de Projetos variados, construidos ao longo de minha trajetória
+# Repositório dos cursos exercicios que fiz ao longo de minha trajetória
 
 
 - Divirtam-se
